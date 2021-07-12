@@ -1,0 +1,33 @@
+<!-- saved from url=(0050)file:///C:/Users/cristiano/Desktop/site/index.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta charset+"utf-8"="">
+        
+</head><body style="background-color:black;"><img src="https://github.com/MilenaFigueira/pn/raw/main/bg.png" heigth="50%" width="100%">
+       <h1 style="color:white;" align="center">Eu sou a Milena Figueira, uma grande futura desenvolvedora!</h1>
+       <img src="https://github.com/MilenaFigueira/pn/raw/main/foto.png" heigth="30%" width="20%" align="right"> 
+    <title> Meu site HTML</title>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+
+
+<h2 style="color:white;" align="center">O que é Tecnologia da informação?</h2>
+   <p style="color:white;" align="center"> A Gartner, grande consultoria mundial do setor tecnológico, apresenta a seguinte definição: “Esse é um termo comum para definir todos os recursos de tecnologia para o processamento de informações, incluindo softwares, hardwares, tecnologias de comunicação e serviços relacionados.</p>
+<br><br>
+<h3 style="color:white;" align="center">O que fazem os profissionais de T.I?</h3>
+<p style="color:white; " align="center"> Os profissionais de TI tem como principais funções gerenciar as informações das empresas e tratar o processamento de dados, além de ser responsável por toda a parte de softwares, hardwares, informática e engenharia de software.</p>
+<br><br>
+<h3 style="color:white;" align="center">3 Principais linguagens de programação</h3>
+<p style="color:white; " align="center"> 1) JAVA: O Java é uma tecnologia usada para desenvolver aplicações que tornam a Web mais divertida e útil. O Java não é a mesma coisa que o javascript., que é uma tecnologia simples usada para criar páginas Web e só é executado no seu browser, o Java permite executar jogos, fazer upload de fotos, bater papo on-line, fazer tours virtuais e usar serviços, como treinamento on-line, transações bancárias on-line e mapas interativos. Se você não tiver o Java, muitas aplicações e websites simplesmente não funcionarão.
+<br><br>
+2) JAVASCRIPT: Também conhecida apenas como JS, JavaScript é uma linguagem de programação usada para desenvolver aplicações, sistemas e serviços de alta complexidade, com ela, você pode criar páginas web dinâmicas, animações, mapas interativos, gráficos em três dimensões, aplicativos para dispositivos móveis e games para plataformas portáteis, o JavaScript atua como um complemento às linguagens HTML, CSS e PHP no momento em que o desenvolvedor vai construir uma página na internet.
+<br><br>
+3) PYTHON: Essa linguagem é muito versátil e possui diversas utilizações, como gerenciamento de Big Data, processamento de dados, inteligência artificial, entre muitas outras, ela faz tudo isso de uma maneira muito simples e descomplicada, com uma sintaxe fácil de entender, além disso é a linguagem que conquistou os corações dos desenvolvedores, e sua comunidade é uma das mais dispostas a resolver problemas. Por conta de tudo isso, programadores Python são muito buscados pelo mercado de trabalho, prova disso é que grandes empresas como Google e Microsoft utilizam a linguagem em suas aplicações.</p>
+<br><br>
+<img src="https://github.com/MilenaFigueira/pn/raw/main/foto2.png" heigth="40%" width="25%" align="right">
+
+<footer>
+<p style="color:white;"> Feito por: Milena Figueira</p>
+<p style="color:white;"> E-mail: <a style="color:yellow;" href="mailto:milenassfigueira@gmail.com"> milenassfigueira@gmail.com </a> </p>
+</footer></body></html>
